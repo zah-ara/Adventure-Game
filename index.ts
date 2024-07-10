@@ -1,3 +1,5 @@
+#! usr/bin/env code
+
 import chalk from 'chalk';
 import inquirer from 'inquirer';
 
